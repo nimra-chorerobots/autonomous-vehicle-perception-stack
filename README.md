@@ -80,7 +80,7 @@ The system produces visualizations combining:
 ## Example Results
 
 ### Scene 1
-![Result 1](results/result1.png)
+![Result 1]("C:\Users\Nimra Tariq\Downloads\Screenshot_1.png")
 
 ### Scene 2
 ![Result 2](results/result2.png)
