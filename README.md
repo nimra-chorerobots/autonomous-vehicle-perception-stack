@@ -94,8 +94,7 @@ The system produces visualizations combining:
 ### Scene 5
 ![Scene 5](results/scene5.png)
 
-### Scene 5
-![Result 5](results/result5.png)
+ 
 
 
 ## Architecture
