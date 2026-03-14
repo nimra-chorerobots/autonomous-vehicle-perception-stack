@@ -77,7 +77,22 @@ The system produces visualizations combining:
 - distance labels
 - collision warnings
 
-Example results:
+## Example Results
+
+### Scene 1
+![Result 1](results/result1.png)
+
+### Scene 2
+![Result 2](results/result2.png)
+
+### Scene 3
+![Result 3](results/result3.png)
+
+### Scene 4
+![Result 4](results/result4.png)
+
+### Scene 5
+![Result 5](results/result5.png)
 
 
 ## Architecture
