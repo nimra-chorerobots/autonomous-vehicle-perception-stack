@@ -79,20 +79,19 @@ The system produces visualizations combining:
 
 ## Example Results
 
-### Scene 1
-![Scene 1](results/scene1.png)
+Autonomous vehicle perception outputs including object detection, semantic segmentation, lane detection, distance estimation, and collision risk prediction.
 
-### Scene 2
-![Scene 2](results/scene2.png)
+![Scene 1](results/scene_1.png)
 
-### Scene 3
-![Scene 3](results/scene3.png)
+![Scene 2](results/scene_2.png)
 
-### Scene 4
-![Scene 4](results/scene4.png)
+![Scene 3](results/scene_3.png)
 
-### Scene 5
-![Scene 5](results/scene5.png)
+![Scene 4](results/scene_4.png)
+
+![Scene 5](results/scene_5.png)
+
+![Scene 6](results/scene_6.png)
 
  
 
