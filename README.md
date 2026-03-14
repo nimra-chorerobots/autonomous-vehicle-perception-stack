@@ -68,6 +68,7 @@ https://www.cityscapes-dataset.com/
 
 ## Example Output
 
+
 The system produces visualizations combining:
 
 - object bounding boxes
