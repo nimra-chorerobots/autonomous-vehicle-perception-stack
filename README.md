@@ -80,16 +80,19 @@ The system produces visualizations combining:
 ## Example Results
 
 ### Scene 1
-![Result 1]("C:\Users\Nimra Tariq\Downloads\Screenshot_1.png")
+![Scene 1](results/scene1.png)
 
 ### Scene 2
-![Result 2](results/result2.png)
+![Scene 2](results/scene2.png)
 
 ### Scene 3
-![Result 3](results/result3.png)
+![Scene 3](results/scene3.png)
 
 ### Scene 4
-![Result 4](results/result4.png)
+![Scene 4](results/scene4.png)
+
+### Scene 5
+![Scene 5](results/scene5.png)
 
 ### Scene 5
 ![Result 5](results/result5.png)
